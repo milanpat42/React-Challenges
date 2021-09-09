@@ -2,8 +2,6 @@
 
 A collection of introductory React challenges.
 
-There are also some larger projects at https://github.com/CodeYourFuture/group-projects#react-only-projects
-
 ## Contribution Guide
 Want to add a challenge?
 
@@ -16,3 +14,7 @@ A good challenge consists of
 - Is targetted at begineer developers
 
 Everyone is welcome to raise a Pull Request on this repository - please share with volunteers and/or students before merging.
+
+## Credit
+
+All credit to [CodeYourFuture](https://codeyourfuture.io/)
