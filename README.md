@@ -1,4 +1,4 @@
-# CodeYourFuture React Challenges
+# React Challenges
 
 A collection of introductory React challenges.
 
